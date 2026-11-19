@@ -1,1 +1,1 @@
-# hello-world
+# I'm Amy. I'm a computer science student at the University of Portland.
